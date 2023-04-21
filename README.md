@@ -23,7 +23,10 @@ Google Apps Script allows you to automate tasks and integrate with other Google 
 5. Replace the empty string with your bot token:  `const token = 'YOUR_BOT_TOKEN';`
 6. Replace the empty string with the URL of your Google Apps Script web app: `const webAppUrl = 'YOUR_WEB_APP_URL';`
 7. Replace the empty string with the ID of the Google Sheet where data will be logged: `const ssId = 'YOUR_GOOGLE_SHEET_ID';`
-8. Replace the empty string with your Telegram user ID for debugging: `const adminID = 'YOUR_TELEGRAM_USER_ID';`
+8. Replace the empty string with your Telegram chat ID for debugging: `const adminID = 'YOUR_TELEGRAM_USER_ID';`
+  1. To find your Telegram user ID, enter https://api.telegram.org/bot[Add your BOT Token Here]/getMe into a web browser.
+  2. Look for the number behind "id" in the returned JSON - this is your Telegram chat ID.
+
 9. Save the script with a name of your choice.
 
 ## Step 3: Set up the web app
