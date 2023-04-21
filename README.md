@@ -55,8 +55,6 @@ Food, KFC, $12, UOB Creditcard.
 
 If successful, the message should be logged to the Google Sheet, and you will receive a confirmation message in Telegram. If there are any errors, you will receive an error message in Telegram.
 
-Congratulations! You have successfully integrated Telegram and Google Sheets using Google Apps Script.
-
 ## Sample Output
 
 ![Gif](/assets/result.gif)
