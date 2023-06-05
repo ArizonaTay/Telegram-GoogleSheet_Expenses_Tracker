@@ -75,4 +75,7 @@ To visualize and analyze your expenses in your Google Sheet, you can connect it 
 
 [Dashboard](https://lookerstudio.google.com/reporting/a782f5d7-3716-4320-b350-d598d5483875)
 
+![Dashboard Result](/assets/dashboard_result.png)
+
+
 
