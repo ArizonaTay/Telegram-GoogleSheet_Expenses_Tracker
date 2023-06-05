@@ -59,4 +59,16 @@ If successful, the message should be logged to the Google Sheet, and you will re
 
 ![Gif](/assets/result.gif)
 
+## Step 6: Connect Google Sheet to Google Data Studio
+To visualize and analyze your expenses in your Google Sheet, you can connect it to Google Data Studio.
+
+1. Open Google Data Studio in your web browser.
+2. Click on the "Create" button to create a new report.
+3. On the left-hand side, click on the "Data Sources" tab.
+4. Click on the "Create New Data Source" button.
+5. In the "Connector" section, search for "Google Sheets" and select the expenses Google Sheet
+6. Click on the "Connect" button.
+7. Click on the "Add to Report" button.
+8. You can now use the data from your Google Sheet to create visualizations and reports in Google Data Studio.
+9. By connecting your Google Sheet to Google Data Studio, you can create dynamic and interactive dashboards, charts, and tables to gain insights from your data.
 
