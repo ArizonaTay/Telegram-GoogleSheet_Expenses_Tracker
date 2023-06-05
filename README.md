@@ -73,6 +73,6 @@ To visualize and analyze your expenses in your Google Sheet, you can connect it 
 
 ## Google Data Studio Sample Output
 
-[Dashboard]([https://openai.com](https://lookerstudio.google.com/reporting/a782f5d7-3716-4320-b350-d598d5483875))
+[Dashboard](https://lookerstudio.google.com/reporting/a782f5d7-3716-4320-b350-d598d5483875)
 
 
