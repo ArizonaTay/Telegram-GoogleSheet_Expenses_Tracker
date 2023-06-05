@@ -55,7 +55,7 @@ Food, KFC, $12, UOB Creditcard.
 
 If successful, the message should be logged to the Google Sheet, and you will receive a confirmation message in Telegram. If there are any errors, you will receive an error message in Telegram.
 
-## Sample Output
+## Integration Sample Output
 
 ![Gif](/assets/result.gif)
 
@@ -70,5 +70,9 @@ To visualize and analyze your expenses in your Google Sheet, you can connect it 
 6. Click on the "Connect" button.
 7. Click on the "Add to Report" button.
 8. You can now use the data from your Google Sheet to create visualizations and reports in Google Data Studio.
-9. By connecting your Google Sheet to Google Data Studio, you can create dynamic and interactive dashboards, charts, and tables to gain insights from your data.
+
+## Google Data Studio Sample Output
+
+[Dashboard]([https://openai.com](https://lookerstudio.google.com/reporting/a782f5d7-3716-4320-b350-d598d5483875))
+
 
